@@ -21,8 +21,3 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-dependency_overrides:
-  dartastic_opentelemetry_api:
-    path: /Users/mbushe/dev/dartastic/dartastic_opentelemetry_api
-  dartastic_opentelemetry:
-    path: /Users/mbushe/dev/dartastic/dartastic_opentelemetry
