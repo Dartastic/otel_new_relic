@@ -3,10 +3,10 @@
 
 import 'package:dartastic_opentelemetry/dartastic_opentelemetry.dart';
 import 'package:dartastic_opentelemetry/testing.dart';
-import 'package:otel_new_relic/otel_new_relic.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:newrelic_mobile/loglevel.dart' as nr;
 import 'package:newrelic_mobile/metricunit.dart';
+import 'package:otel_new_relic/otel_new_relic.dart';
 
 void main() {
   late TestHarness harness;
