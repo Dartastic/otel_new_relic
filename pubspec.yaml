@@ -1,6 +1,6 @@
 name: otel_new_relic
 description: OpenTelemetry bridge for newrelic_mobile. Mirrors errors / breadcrumbs / custom events / metrics / interactions into OTel.
-version: 0.1.0-beta.2
+version: 0.1.0-beta.3-wip
 repository: https://github.com/dartastic/otel_new_relic
 homepage: https://dartastic.io
 publish_to: https://pub.dartastic.io
